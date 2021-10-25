@@ -1,7 +1,7 @@
 # Movies-ETL
 
 ## Background and Purpose
-After working with Britta at Amazing Prime, in preparation for a hackathon to connect Amazing Prime with local coding community and hoping to gain insights on which low budget movies will become popullar, a continuation of the project developes to automate the ETL pipeline.
+After working with collegue at Amazing Prime, in preparation for a hackathon to connect Amazing Prime with local coding community and hoping to gain insights on which low budget movies will become popullar, a continuation of the project developes to automate the ETL pipeline.
 
 Simply put, we
 
